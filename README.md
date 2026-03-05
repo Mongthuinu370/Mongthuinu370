@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Mongthuinu
 
-<!--
-**Mongthuinu370/Mongthuinu370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | Software Engineering Learner**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
+I am passionate about building modern web applications and continuously learning new technologies.
+Currently focusing on **Web Development** and exploring **Microservices Architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Modern Web Development**
+* 🔍 Interested in **Microservices Architecture**
+* 💡 Enjoy solving problems and building practical software
+* 🎯 Goal: Become a professional software developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Java
+* C
+* JavaScript
+
+### Frameworks & Libraries
+
+* Node.js
+* Tailwind CSS
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+
+### Concepts
+
+* Web Development
+* Microservices Architecture
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mongthuinu370\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mongthuinu370\&layout=compact\&theme=github_dark)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [mongthuinustudent@gmail.com](mailto:mongthuinustudent@gmail.com)
+* 📘 Facebook: *(Add your Facebook profile link)*
+* 💼 LinkedIn: *(Add your LinkedIn profile link)*
+
+---
+
+## 🌱 Current Focus
+
+* Improving **JavaScript & Node.js**
+* Learning **Backend Architecture**
+* Exploring **Microservices Design**
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
