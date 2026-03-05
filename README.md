@@ -55,7 +55,7 @@ Currently focusing on **Web Development** and exploring **Microservices Architec
 ## 📫 Connect With Me
 
 * 📧 Email: [mongthuinustudent@gmail.com](mailto:mongthuinustudent@gmail.com)
-* 📘 Facebook: *(Add your Facebook profile link)*
+* 📘 Facebook: [https://www.facebook.com/profile.php?id=100080358824564]
 * 💼 LinkedIn: *(Add your LinkedIn profile link)*
 
 ---
