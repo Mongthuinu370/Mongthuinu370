@@ -1,4 +1,4 @@
-#  Hi, I'm Mongthuinu 👋
+#  Hi, I'm Mongthuinu Marma 👋
 
 💻 **Web Developer | Software Engineering Learner**
 
